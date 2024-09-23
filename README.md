@@ -1,5 +1,7 @@
 1. Project Title
+   
 # WeatherApp
+
 Secure Full-Stack Application with Local Authentication, File Upload, Caching, and External API Integration.
 
 ## Table of Contents
@@ -82,6 +84,7 @@ Write integration tests to ensure that different parts of the application work t
 Use a testing framework like Jest or Mocha, with at least 80% code coverage.
 
 5.Contact:
+
 manojkumarankam0405@gmail.com
 
 
