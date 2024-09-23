@@ -56,6 +56,7 @@ iV)Data Caching:
 Implement caching for the external API data to reduce the number of API calls and improve performance.
 Use a local caching solution, such as in-memory caching (e.g., Node.js `lru-cache` package) or storing cached data in a local database.
 Ensure the cache is invalidated when the data is stale or when a manual refresh is triggered.
+
 v)Search and Filtering:
 
 Implement a search and filtering feature for the content in the application.
