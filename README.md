@@ -7,7 +7,7 @@ Secure Full-Stack Application with Local Authentication, File Upload, Caching, a
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Installation
 1. Clone the repo
