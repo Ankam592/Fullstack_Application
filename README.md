@@ -2,7 +2,7 @@
    
 # WeatherApp
 
-Secure Full-Stack Application with Local Authentication, File Upload, Caching, and External API Integration.
+Secure Full-Stack Node Application with Local Authentication, File Upload, Caching, and External API Integration built using Express JS Framework to provide business solutions.
 
 ## Table of Contents
 - [Installation](#installation)
